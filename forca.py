@@ -110,3 +110,5 @@ if(cont == 6):
 
 else:
     print(f'Sim! A palavra secreta eh "{palavra}"')
+
+#conejo
